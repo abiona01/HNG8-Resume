@@ -113,10 +113,11 @@ section {
 }
 .experience {
 	box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2), 0 6px 10px 0 rgba(0, 0, 0, 0.01);
-	margin-right: 0.4rem;
-	min-height: 250px;
+
+	min-height: 270px;
 	height: 100%;
 	padding-left: 1rem;
+	padding-top: 0.2rem;
 }
 .experience li {
 	display: flex;
