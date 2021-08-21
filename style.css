@@ -83,7 +83,6 @@ section {
 }
 .about,
 .skills,
-.certifications,
 .footer-div {
 	width: 90vw;
 	margin: 0 auto;
@@ -112,11 +111,7 @@ section {
 	align-items: center;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
-.certifications .row .col {
-	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
-	border-radius: 10px;
-	margin-top: 0.5rem;
-}
+
 .footer-div {
 	display: flex;
 	justify-content: center;
@@ -159,9 +154,7 @@ footer {
 	.info .info-text {
 		font-size: 1rem;
 	}
-	.certifications .row .col {
-		margin-bottom: 1rem;
-	}
+
 	.footer-div {
 		flex-direction: column;
 	}
